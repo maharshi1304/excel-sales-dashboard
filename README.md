@@ -18,6 +18,11 @@ This project is a simple sales dashboard built using Microsoft Excel.
 ## 📁 Files
 - Sales_Dashboard.xlsx
 - dashboard_preview.png
+- Images:<img width="1399" height="605" alt="dashboard2_preview" src="https://github.com/user-attachments/assets/e9e8a9df-75e7-4dd0-bcbb-70e1ecef141c" />
+
+![Uploading dashboard1_preview.png…]()
+
+
 
 ## 🚀 Learning Outcome
 - Learned data analysis using Excel
