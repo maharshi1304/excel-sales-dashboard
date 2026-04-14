@@ -22,7 +22,7 @@ This project is a simple sales dashboard built using Microsoft Excel.
 
 <img width="1409" height="642" alt="dashboard1_preview" src="https://github.com/user-attachments/assets/66631735-b676-46df-88b1-0d398b1d1eae" />
 
-
+Gitlink for all files & Documents: https://github.com/maharshi1304/excel-sales-dashboard/tree/main
 
 
 ## 🚀 Learning Outcome
