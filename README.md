@@ -20,7 +20,8 @@ This project is a simple sales dashboard built using Microsoft Excel.
 - dashboard_preview.png
 - Images:<img width="1399" height="605" alt="dashboard2_preview" src="https://github.com/user-attachments/assets/e9e8a9df-75e7-4dd0-bcbb-70e1ecef141c" />
 
-![Uploading dashboard1_preview.png…]()
+<img width="1409" height="642" alt="dashboard1_preview" src="https://github.com/user-attachments/assets/66631735-b676-46df-88b1-0d398b1d1eae" />
+
 
 
 
